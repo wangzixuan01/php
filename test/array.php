@@ -23,5 +23,4 @@ foreach ($info as $key=>$value){
     echo "$key";
     echo "</th>";
     echo "</table>";
-    foreach ($)
 }
