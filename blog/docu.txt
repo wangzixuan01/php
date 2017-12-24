@@ -1,0 +1,5 @@
+reg/login
+
+blog(bid,title,content,time,hits,uid)
+user(uid,uname,pass,ulevel,uimg)
+catalog(catalog_id,catalog_name)
